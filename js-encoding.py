@@ -1,3 +1,6 @@
+#author:Dtdf00feg
+#github:https://github.com/Dtdf00feg
+
 from selenium import webdriver
 
 def js_encoding():
