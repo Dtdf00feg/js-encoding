@@ -5,17 +5,14 @@ def js_encoding():
     chrome_options = webdriver.ChromeOptions()
     chrome_options.add_argument("--headless")  # 设置为静默模式
 
-    # 创建浏览器对象
-    # browser = webdriver.Chrome("C:\chromedriver_win32\chromedriver.exe")
-
     # 指定 chromedriver 及其路径
-    executable_path = "C:\chromedriver_win32\chromedriver.exe"
+    executable_path = "your path \chromedriver.exe"
 
     # 创建浏览器对象
     browser = webdriver.Chrome(executable_path=executable_path, chrome_options=chrome_options)
 
     # 打开网页
-    browser.get('http://www.bjygzx.org.cn/jzxx_ygj/login.action')
+    browser.get('http://www.example.com/login')
 
     # 调用 JavaScript 函数
     # 遍历读取文件中的每一行，并调用 JavaScript 函数
