@@ -7,6 +7,9 @@
   
 使用截图：
 控制台：
+
 ![image](https://github.com/Yty-feg-thr/js-encoding/assets/57204310/86370ccf-871f-4159-a008-ca70b1aacc15)
+
 脚本批量加密参数：
+
 ![image](https://github.com/Yty-feg-thr/js-encoding/assets/57204310/b3ca086b-59a1-4fd4-be7d-30245ee6a385)
